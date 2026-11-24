@@ -1,0 +1,252 @@
+{
+  "generated_at": "2026-11-24T10:21:13.796Z",
+  "period": [
+    "2016-01-01",
+    "2025-12-31"
+  ],
+  "method": "Linear interpolation percentile (type 7); consecutive daily runs within each winter; modelled discharge; river grid match unverified.",
+  "towns": [
+    {
+      "town": "Clonmel",
+      "river": "Suir",
+      "lat": 52.355,
+      "lon": -7.703,
+      "counties": [
+        "Tipperary"
+      ],
+      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=52.355&longitude=-7.703&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
+      "grid_lat": 52.375,
+      "grid_lon": -7.724991,
+      "observations": 3653,
+      "missing": 0,
+      "p95": 66.3,
+      "p99": 107.88000000000001,
+      "median": 21.65,
+      "winters": {
+        "2016/17": 0,
+        "2017/18": 0,
+        "2018/19": 0,
+        "2019/20": 2,
+        "2020/21": 3,
+        "2021/22": 2,
+        "2022/23": 1,
+        "2023/24": 2,
+        "2024/25": 1
+      },
+      "first_four": 2,
+      "last_four": 6
+    },
+    {
+      "town": "Fermoy",
+      "river": "Blackwater",
+      "lat": 52.13955,
+      "lon": -8.2754,
+      "counties": [
+        "Cork"
+      ],
+      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=52.13955&longitude=-8.2754&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
+      "grid_lat": 52.125,
+      "grid_lon": -8.274994,
+      "observations": 3653,
+      "missing": 0,
+      "p95": 0.64,
+      "p99": 1.2244000000000006,
+      "median": 0.19,
+      "winters": {
+        "2016/17": 0,
+        "2017/18": 1,
+        "2018/19": 0,
+        "2019/20": 1,
+        "2020/21": 3,
+        "2021/22": 2,
+        "2022/23": 1,
+        "2023/24": 3,
+        "2024/25": 3
+      },
+      "first_four": 2,
+      "last_four": 9
+    },
+    {
+      "town": "Mallow",
+      "river": "Blackwater",
+      "lat": 52.13,
+      "lon": -8.64,
+      "counties": [
+        "Cork"
+      ],
+      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=52.13&longitude=-8.64&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
+      "grid_lat": 52.125,
+      "grid_lon": -8.624985,
+      "observations": 3653,
+      "missing": 0,
+      "p95": 44.6,
+      "p99": 71.33000000000003,
+      "median": 13.96,
+      "winters": {
+        "2016/17": 1,
+        "2017/18": 0,
+        "2018/19": 0,
+        "2019/20": 1,
+        "2020/21": 3,
+        "2021/22": 1,
+        "2022/23": 1,
+        "2023/24": 3,
+        "2024/25": 3
+      },
+      "first_four": 2,
+      "last_four": 8
+    },
+    {
+      "town": "Bandon",
+      "river": "Bandon",
+      "lat": 51.746,
+      "lon": -8.742,
+      "counties": [
+        "Cork"
+      ],
+      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=51.746&longitude=-8.742&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
+      "grid_lat": 51.725006,
+      "grid_lon": -8.724991,
+      "observations": 3653,
+      "missing": 0,
+      "p95": 0.81,
+      "p99": 1.5,
+      "median": 0.19,
+      "winters": {
+        "2016/17": 0,
+        "2017/18": 2,
+        "2018/19": 0,
+        "2019/20": 2,
+        "2020/21": 3,
+        "2021/22": 2,
+        "2022/23": 1,
+        "2023/24": 3,
+        "2024/25": 5
+      },
+      "first_four": 4,
+      "last_four": 11
+    },
+    {
+      "town": "Enniscorthy",
+      "river": "Slaney",
+      "lat": 52.502,
+      "lon": -6.557,
+      "counties": [
+        "Wexford"
+      ],
+      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=52.502&longitude=-6.557&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
+      "grid_lat": 52.525,
+      "grid_lon": -6.574997,
+      "observations": 3653,
+      "missing": 0,
+      "p95": 29.857999999999972,
+      "p99": 52.3924,
+      "median": 10.67,
+      "winters": {
+        "2016/17": 0,
+        "2017/18": 1,
+        "2018/19": 0,
+        "2019/20": 1,
+        "2020/21": 1,
+        "2021/22": 0,
+        "2022/23": 0,
+        "2023/24": 2,
+        "2024/25": 2
+      },
+      "first_four": 2,
+      "last_four": 4
+    },
+    {
+      "town": "Ennis",
+      "river": "Fergus",
+      "lat": 52.846,
+      "lon": -8.98,
+      "counties": [
+        "Clare"
+      ],
+      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=52.846&longitude=-8.98&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
+      "grid_lat": 52.825005,
+      "grid_lon": -8.974991,
+      "observations": 3653,
+      "missing": 0,
+      "p95": 5.76,
+      "p99": 7.174000000000001,
+      "median": 2.61,
+      "winters": {
+        "2016/17": 0,
+        "2017/18": 0,
+        "2018/19": 1,
+        "2019/20": 2,
+        "2020/21": 1,
+        "2021/22": 0,
+        "2022/23": 1,
+        "2023/24": 1,
+        "2024/25": 0
+      },
+      "first_four": 3,
+      "last_four": 2
+    },
+    {
+      "town": "Athlone",
+      "river": "Shannon",
+      "lat": 53.424,
+      "lon": -7.944,
+      "counties": [
+        "Westmeath",
+        "Roscommon"
+      ],
+      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=53.424&longitude=-7.944&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
+      "grid_lat": 53.425003,
+      "grid_lon": -7.924988,
+      "observations": 3653,
+      "missing": 0,
+      "p95": 1.8439999999999965,
+      "p99": 2.81,
+      "median": 0.58,
+      "winters": {
+        "2016/17": 1,
+        "2017/18": 0,
+        "2018/19": 1,
+        "2019/20": 5,
+        "2020/21": 3,
+        "2021/22": 0,
+        "2022/23": 2,
+        "2023/24": 2,
+        "2024/25": 1
+      },
+      "first_four": 7,
+      "last_four": 5
+    },
+    {
+      "town": "Carrick-on-Shannon",
+      "river": "Shannon",
+      "lat": 53.945,
+      "lon": -8.092,
+      "counties": [
+        "Leitrim",
+        "Roscommon"
+      ],
+      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=53.945&longitude=-8.092&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
+      "grid_lat": 53.925003,
+      "grid_lon": -8.074997,
+      "observations": 3653,
+      "missing": 0,
+      "p95": 62.24,
+      "p99": 88.8408,
+      "median": 21.86,
+      "winters": {
+        "2016/17": 0,
+        "2017/18": 1,
+        "2018/19": 1,
+        "2019/20": 2,
+        "2020/21": 5,
+        "2021/22": 1,
+        "2022/23": 1,
+        "2023/24": 0,
+        "2024/25": 1
+      },
+      "first_four": 4,
+      "last_four": 3
+    }
+  ]
+}
