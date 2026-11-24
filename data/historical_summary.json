@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T10:21:13.796Z",
+  "generated_at": "2026-11-24T14:48:40.414Z",
   "period": [
     "2016-01-01",
     "2025-12-31"
@@ -39,32 +39,32 @@
     {
       "town": "Fermoy",
       "river": "Blackwater",
-      "lat": 52.13955,
-      "lon": -8.2754,
+      "lat": 52.175003,
+      "lon": -8.274994,
       "counties": [
         "Cork"
       ],
-      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=52.13955&longitude=-8.2754&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
-      "grid_lat": 52.125,
+      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=52.175003&longitude=-8.274994&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
+      "grid_lat": 52.175003,
       "grid_lon": -8.274994,
       "observations": 3653,
       "missing": 0,
-      "p95": 0.64,
-      "p99": 1.2244000000000006,
-      "median": 0.19,
+      "p95": 73.19799999999994,
+      "p99": 120.4744,
+      "median": 23.27,
       "winters": {
         "2016/17": 0,
-        "2017/18": 1,
+        "2017/18": 0,
         "2018/19": 0,
         "2019/20": 1,
         "2020/21": 3,
-        "2021/22": 2,
+        "2021/22": 0,
         "2022/23": 1,
-        "2023/24": 3,
+        "2023/24": 2,
         "2024/25": 3
       },
-      "first_four": 2,
-      "last_four": 9
+      "first_four": 1,
+      "last_four": 6
     },
     {
       "town": "Mallow",
@@ -99,32 +99,32 @@
     {
       "town": "Bandon",
       "river": "Bandon",
-      "lat": 51.746,
-      "lon": -8.742,
+      "lat": 51.725006,
+      "lon": -8.674988,
       "counties": [
         "Cork"
       ],
-      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=51.746&longitude=-8.742&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
+      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=51.725006&longitude=-8.674988&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
       "grid_lat": 51.725006,
-      "grid_lon": -8.724991,
+      "grid_lon": -8.674988,
       "observations": 3653,
       "missing": 0,
-      "p95": 0.81,
-      "p99": 1.5,
-      "median": 0.19,
+      "p95": 23.913999999999977,
+      "p99": 41.45720000000001,
+      "median": 5.84,
       "winters": {
         "2016/17": 0,
-        "2017/18": 2,
+        "2017/18": 0,
         "2018/19": 0,
-        "2019/20": 2,
-        "2020/21": 3,
-        "2021/22": 2,
-        "2022/23": 1,
+        "2019/20": 1,
+        "2020/21": 2,
+        "2021/22": 0,
+        "2022/23": 0,
         "2023/24": 3,
         "2024/25": 5
       },
-      "first_four": 4,
-      "last_four": 11
+      "first_four": 1,
+      "last_four": 8
     },
     {
       "town": "Enniscorthy",
@@ -189,33 +189,33 @@
     {
       "town": "Athlone",
       "river": "Shannon",
-      "lat": 53.424,
-      "lon": -7.944,
+      "lat": 53.425003,
+      "lon": -7.974991,
       "counties": [
         "Westmeath",
         "Roscommon"
       ],
-      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=53.424&longitude=-7.944&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
+      "source_url": "https://flood-api.open-meteo.com/v1/flood?latitude=53.425003&longitude=-7.974991&daily=river_discharge&start_date=2016-01-01&end_date=2025-12-31",
       "grid_lat": 53.425003,
-      "grid_lon": -7.924988,
+      "grid_lon": -7.974991,
       "observations": 3653,
       "missing": 0,
-      "p95": 1.8439999999999965,
-      "p99": 2.81,
-      "median": 0.58,
+      "p95": 142.3519999999999,
+      "p99": 186.7064,
+      "median": 67.08,
       "winters": {
-        "2016/17": 1,
+        "2016/17": 0,
         "2017/18": 0,
-        "2018/19": 1,
-        "2019/20": 5,
-        "2020/21": 3,
+        "2018/19": 0,
+        "2019/20": 1,
+        "2020/21": 0,
         "2021/22": 0,
-        "2022/23": 2,
-        "2023/24": 2,
-        "2024/25": 1
+        "2022/23": 0,
+        "2023/24": 0,
+        "2024/25": 0
       },
-      "first_four": 7,
-      "last_four": 5
+      "first_four": 1,
+      "last_four": 0
     },
     {
       "town": "Carrick-on-Shannon",
